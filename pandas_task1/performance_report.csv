@@ -1,0 +1,3 @@
+Order_ID,Date,Employee_ID,Product,Units_Sold,Unit_Price,Discount (%),Month,Total_Sale,Name,Department,Join_Date,Region,Status,Target_Amount,Target_Met,Performance_Score
+O1001,2023-01-15,E001,Laptop,5,50000,10,2023-01,225000.0,Alice,Sales,2020-01-10,North,Active,200000,Yes,112.5
+O1002,2023-01-20,E002,Tablet,3,20000,0,2023-01,60000.0,Bob,Sales,2019-06-15,South,Resigned,100000,No,60.0

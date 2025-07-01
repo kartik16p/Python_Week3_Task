@@ -1,0 +1,3 @@
+Employee_ID,Name,Department,Join_Date,Region,Status
+E001,Alice,Sales,2020-01-10,North,Active
+E002,Bob,Sales,2019-06-15,South,Resigned
